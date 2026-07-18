@@ -1,0 +1,18 @@
+let c = 10;
+let d = 5;
+
+function add(a, b) {
+    return a + b;
+}
+
+function multiply(a, b) {
+    return a * b;
+}
+
+console.log("First Number: ", c);
+console.log("Second Number: ", d);
+
+console.log("Addition: ", add(c, d));
+console.log("Multiplication: ", multiply(c, d));
+
+console.log("Sneha");
